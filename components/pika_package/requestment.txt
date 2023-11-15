@@ -1,0 +1,5 @@
+pikascript-core==v1.13.0
+PikaStdLib==v1.13.0
+ESP32==v0.4.4
+PikaStdDevice==v2.4.4
+time==v0.2.0
